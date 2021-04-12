@@ -1,3 +1,5 @@
 
-import './style.css';
-import './navbar.css'
+import './css/style.css';
+import './css/navbar.css';
+
+
