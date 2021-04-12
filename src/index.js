@@ -1,7 +1,3 @@
-document.write("Hello world");
 
-document.write("Hello world");
-
-document.write("Hello world");
-
-document.write("Hello world");
+import './style.css';
+import './navbar.css'
